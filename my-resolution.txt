@@ -1,3 +1,4 @@
 my resolution
 learn HTML
 learn css
+learn javascript
